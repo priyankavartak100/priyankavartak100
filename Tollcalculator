@@ -1,0 +1,3 @@
+Tollcalculator is a simple java program which can run on any IDE supporting JDK 1.8. 
+Kindly donload all the java files from SRC folder and run TollcalculatorLogic.java in any IDE preferably NETBEANS 8.2 to see the output. Also this program require
+gson 2.8.6 jar which is already included into project.
